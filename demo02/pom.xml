@@ -5,9 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github</groupId>
-        <artifactId>spring-boot-in-action-code</artifactId>
+        <artifactId>spring-security-in-action-code</artifactId>
         <version>1.0.0</version>
     </parent>
+
     <groupId>io.github</groupId>
     <artifactId>demo02</artifactId>
     <name>demo02</name>
