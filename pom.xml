@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github</groupId>
-    <artifactId>spring-boot-in-action-code</artifactId>
+    <artifactId>spring-security-in-action-code</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>spring-boot-in-action-code</name>
+    <name>spring-security-in-action-code</name>
     <url>http://maven.apache.org</url>
 
     <modules>
