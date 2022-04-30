@@ -1,2 +1,2 @@
 # spring-boot-in-action-code
-springboot in action code.
+https://www.manning.com/books/spring-boot-in-action
